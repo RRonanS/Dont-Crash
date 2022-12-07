@@ -1,5 +1,5 @@
 # Dont-Crash
-Jogo arcade simples desenvolvido em python
+Jogo arcade simples desenvolvido em Python com Pygame
 
 Executável:
 
